@@ -7,3 +7,5 @@ UX Case Study Document:
 
 #3 Karentoroku Website: Available Time Booking
 => https://drive.google.com/file/d/1bUjiIhcE8PZyzjJx862M_bdY3ixhN_w0/view?usp=share_link
+
+By the way can download from: https://github.com/korana/my-portfolio/tree/main/src/documents
